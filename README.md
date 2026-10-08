@@ -1,10 +1,6 @@
 # Student-risk-Monitor
 Browser-based student risk dashboard for attendance and marks CSVs, explainable risk flags, recovery estimates and staff email drafts.
 
-# Student Risk Monitor
-
-**GitHub description:** A browser-based student support dashboard that reviews attendance and assessment CSVs, explains risk flags, estimates attendance recovery, and prepares student and staff email drafts.
-
 Student Risk Monitor is a lightweight prototype for helping academic staff identify students who may need follow-up. Upload attendance and assessment records, review the reasons behind each flag, filter the risk list, and prepare individual alert drafts for the student, subject teacher, and faculty adviser.
 
 The app runs as a static page in a browser. It does not require a database, build step, or package installation.
