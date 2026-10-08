@@ -1,0 +1,9 @@
+teacher_email,teacher_name,day,start_time,end_time,status
+teacher.ds@example.edu,Subject Teacher,Thursday,14:00,14:30,available
+kabir.shah@example.edu,Prof. Kabir Shah,Thursday,14:30,15:00,available
+kabir.shah@example.edu,Prof. Kabir Shah,Friday,11:00,11:30,available
+imran.khan@example.edu,Prof. Imran Khan,Wednesday,13:00,13:30,available
+imran.khan@example.edu,Prof. Imran Khan,Friday,11:30,12:00,available
+kavya.iyer@example.edu,Dr. Kavya Iyer,Tuesday,15:00,15:30,available
+kavya.iyer@example.edu,Dr. Kavya Iyer,Thursday,10:00,10:30,available
+

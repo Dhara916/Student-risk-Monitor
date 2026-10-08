@@ -1,0 +1,22 @@
+student_id,student_name,student_email,department,adviser_name,adviser_email,subject,teacher_name,teacher_email,classes_held,classes_attended
+DEMO-001,Demo Student 01,student01@example.edu,Computer Science,Faculty Adviser,adviser.cs@example.edu,Data Structures,Subject Teacher,teacher.ds@example.edu,40,32
+CS24I1021,Aarav Mehta,student02@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,30
+CS24I1034,Diya Rao,student03@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,35
+CS24I1042,Ishaan Patel,student04@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,33
+CS24I1055,Mira Sen,student05@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,36
+CS24I1060,Neel Shah,student06@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,32
+CS24I1073,Sara Thomas,student07@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,38
+CS24I1088,Kabir Das,student08@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,34
+CS24I1091,Anaya Roy,student09@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,37
+CS24I1104,Rohan Iyer,student10@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,31
+CS24I1117,Meera Joshi,student11@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,39
+CS24I1123,Arjun Nair,student12@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,33
+CS24I1136,Tara Kapoor,student13@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,35
+CS24I1149,Dev Malhotra,student14@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,28
+CS24I1152,Anika Bose,student15@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,36
+CS24I1168,Rehan Ali,student16@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,32
+CS24I1175,Siya Menon,student17@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,37
+CS24I1181,Vivaan Khanna,student18@example.edu,Electronics,Dr. Sunita Bose,sunita.bose@example.edu,Digital Systems,Prof. Imran Khan,imran.khan@example.edu,40,30
+CS24I1194,Kiara Dutta,student19@example.edu,Mathematics,Dr. Anil Varma,anil.varma@example.edu,Linear Algebra,Dr. Kavya Iyer,kavya.iyer@example.edu,40,34
+CS24I1207,Aditya Sen,student20@example.edu,Computer Science,Dr. Priya Nair,priya.nair@example.edu,Data Structures,Prof. Kabir Shah,kabir.shah@example.edu,40,35
+
